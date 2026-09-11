@@ -76,8 +76,6 @@ export default function WhySection({ onNext }) {
                 <p className="text-sm text-stone-500 mt-3 max-w-xs mx-auto">
                   apply security measures when using generative AI
                 </p>
-                <div className="mt-2 inline-block text-[10px] text-amber-600 bg-amber-50 px-2 py-0.5 rounded-full border border-amber-200">
-                </div>
               </motion.div>
             </div>
 

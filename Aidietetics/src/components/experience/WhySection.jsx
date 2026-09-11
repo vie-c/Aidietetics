@@ -77,7 +77,6 @@ export default function WhySection({ onNext }) {
                   apply security measures when using generative AI
                 </p>
                 <div className="mt-2 inline-block text-[10px] text-amber-600 bg-amber-50 px-2 py-0.5 rounded-full border border-amber-200">
-                  ✎ Editable — insert your validated research value
                 </div>
               </motion.div>
             </div>

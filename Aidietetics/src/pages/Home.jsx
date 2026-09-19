@@ -56,7 +56,7 @@ export default function Home() {
           {/* Logo */}
           <button onClick={() => goTo(0)} className="flex items-center gap-2 flex-shrink-0">
             <div className="w-8 h-8 rounded-lg bg-emerald-700 flex items-center justify-center">
-              <span className="text-white font-bold text-sm">AI</span>
+              <span className="text-white font-bold text-sm">🍪</span>
             </div>
             <span className="font-semibold text-sm text-stone-900 hidden sm:inline">AI in Dietetics</span>
           </button>
